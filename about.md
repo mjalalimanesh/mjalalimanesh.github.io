@@ -7,7 +7,7 @@ permalink: /about/
 I have a MSc in Physics and I'm trying to become a Data Scientist
 
 ### Links
-[##CV](my_resume.pdf)
+##[CV](my-cv.pdf)
 
 
 ### More Information
