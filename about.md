@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have a MSc in Physics and I'm trying to become a Data Scientist
+
+### Links
+[##CV](my_resume.pdf)
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mohamad.manesh@gmail.com](mailto:mohamad.manesh@gmail.com)
