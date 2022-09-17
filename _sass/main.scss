@@ -6,8 +6,9 @@
 @charset "utf-8";
 
 .container-main {
+  background-color: #FFFFDD;
   width: 95%;
-  margin: 10px auto;
+  padding: 10px auto;
   overflow: hidden;
   min-height: calc(100vh - 158px);
 }
