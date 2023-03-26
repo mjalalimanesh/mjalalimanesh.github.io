@@ -27,7 +27,7 @@ telegram: mjalalimanesh
 linkedin: mjalalimanesh
 
 comments: true
-disqus: mjalalimanesh
+disqus: mjalalimanesh-github-io
 
 paginate: 25
 paginate_path: "/page:num/"
