@@ -13,30 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ghosind
-author: Chen Su
-email: i@ghosind.com
-description: Focus on Computer Science, Mathematics, and Electrics
-keywords: [computer science, programming, ghosind, blog]
+title: MJalalimanesh
+author: Mohamad Jalalimanesh
+email: mohamad.manesh@gmail.com
+description: Focus on Product Analytics, Data Science, and Decision Making
+keywords: [computer science, programming, product analytics, data science, decision making]
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ghosind.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "mjalalimanesh.gihub.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-facebook: chen.su.7796
-twitter: ghosind
-github: ghosind
-googleplus: 117918051202088747904
-linkedin: chen-su-507116123
-stackoverflow: 2685733
+twitter: mjalalimanesh
+github: mjalalimanesh
+telegram: mjalalimanesh
+linkedin: mjalalimanesh
 
 comments: true
-disqus: ghosind
+disqus: mjalalimanesh
 
 paginate: 25
 paginate_path: "/page:num/"
 
 permalink: /:year/:month/:day/:title
 
-google_analytics: UA-87927057-1
+google_analytics: 
 
 sass:
   sass_dir: _sass
