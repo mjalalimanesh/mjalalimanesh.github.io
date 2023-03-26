@@ -11,6 +11,9 @@ excerpt: Test Post Showing How to Print Hello World in Python!
 ## Test Post
 This is just a test post showing `Hello World!` in python!
 
+## زبان فارسی
+تست زبان فارسی. این برنامه به جهان سلام میکنه!
+
 ```cs
 print("Hello World!")
 ```
